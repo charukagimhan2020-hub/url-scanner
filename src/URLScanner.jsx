@@ -46,7 +46,6 @@ function runChecks(raw) {
   if (!parsed) return null;
 
   const host     = parsed.hostname.toLowerCase();
-  const path     = parsed.pathname + parsed.search;
   const fullURL  = parsed.href;
   const tld      = "." + host.split(".").slice(-1)[0];
   const subparts = host.split(".");
