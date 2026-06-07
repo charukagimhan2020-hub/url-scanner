@@ -4,7 +4,7 @@
 >
 > All analysis runs entirely inside the browser. No URLs are submitted to external services, databases, or third-party APIs.
 
-A React-based cybersecurity tool that analyzes URLs for phishing indicators, typosquatting, homograph attacks, URL obfuscation, brand impersonation, and suspicious domain patterns — using a multi-technique heuristic detection engine with per-flag educational explanations.
+A React-based cybersecurity tool that analyzes URLs for phishing indicators, typosquatting, homograph attacks, URL obfuscation, brand impersonation, and suspicious domain patterns - using a multi-technique heuristic detection engine with per-flag educational explanations.
 
 ---
 
@@ -16,9 +16,9 @@ https://url-scanner-pwhm.vercel.app/
 
 # 📖 Overview
 
-Cybercriminals craft deceptive URLs to lure users into phishing websites, malware downloads, and credential theft — often making URLs appear legitimate at a glance.
+Cybercriminals craft deceptive URLs to lure users into phishing websites, malware downloads, and credential theft - often making URLs appear legitimate at a glance.
 
-This scanner evaluates URLs across 11 detection techniques, generates a 0–100 risk score, and explains every flagged issue in plain language — teaching users not just *what* is suspicious, but *why* and *how* attackers exploit it.
+This scanner evaluates URLs across 11 detection techniques, generates a 0-100 risk score, and explains every flagged issue in plain language - teaching users not just *what* is suspicious, but *why* and *how* attackers exploit it.
 
 ---
 
