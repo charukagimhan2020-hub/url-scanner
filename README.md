@@ -20,6 +20,12 @@ The scanner evaluates URLs using multiple security checks and generates a risk s
 
 ---
 
+## 🌐 Live Demo Link
+
+https://url-scanner-pwhm.vercel.app/
+
+---
+
 # ✨ Features
 
 ### 🔎 URL Risk Analysis
